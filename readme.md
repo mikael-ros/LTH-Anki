@@ -1,3 +1,5 @@
+> Consider starring this repo :)
+
 # Swedish
 Denna repo är ett komplement till min Notion-databas som du kan finna genom denna länken: https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4
 
