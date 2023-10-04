@@ -12,6 +12,8 @@ Då AnkiWeb har odefinierade minimikrav på hur många nedladdningar en deck kan
 
 GitHub specifikt, då det är standard inom Dataprogrammet och det blir enkelt för mig att uppdatera filerna.
 
+Dessutom gör GitHub det möjligt för korten att dyka upp genom google-sökningar.
+
 ## Hur man använder korten
 1. Ladda ner anki-paketet du vill ha
 
@@ -24,7 +26,9 @@ GitHub specifikt, då det är standard inom Dataprogrammet och det blir enkelt f
 3. Njut, i guess. Du kan ställa in dina egna inställningar om du vill.
 
 ### Vad innehåller repon?
-Alla kurser förutom FMAB65, änsålänge.
+Alla kurser förutom FMAB65.
+
+Korten är mestadels cloze-kort, men där är ofta bilder.
 
 ### Kommer korten överskrida mina inställningar?
 Nej, jag har sett till att alltid exportera utan inställningarna.
@@ -42,6 +46,8 @@ Because AnkiWeb has undefined minimums on downloads on decks, and I don't want m
 
 GitHub specifically, because its a standard within computer science, and it makes it easy for me to update the files.
 
+GitHub also makes it possible for the cards to be indexed and for them to be found organically through Google searches.
+
 ## How to use the cards
 1. Download the anki package you want
 
@@ -55,6 +61,8 @@ GitHub specifically, because its a standard within computer science, and it make
 
 ### What does the repo include?
 All courses except FMAB65, so far.
+
+Most of the cards are cloze cards, but there are often images.
 
 ### Will the decks override my settings?
 No, I've seen to it to always export without my settings included.
