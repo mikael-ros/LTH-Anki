@@ -8,7 +8,7 @@ Dessa kort är ämnade åt datastudenter, men kan användas åt individuella kur
 Du kan ladda ner Anki till din mobil eller din dator, bland annat.
 https://apps.ankiweb.net/
 ## Varför GitHub?
-Då AnkiWeb har odefinierade minimikrav på hur många nedladdningar en deck kan ha, och jag inte vill att mina kort ska bli raderade - och för att jag använt material jag inte har upphovsrätt till.
+Då AnkiWeb har odefinierade minimikrav på hur många nedladdningar en deck kan ha, och jag inte vill att mina kort ska bli raderade
 
 GitHub specifikt, då det är standard inom Dataprogrammet och det blir enkelt för mig att uppdatera filerna.
 
@@ -42,7 +42,7 @@ These cards are directed towards computer science students, but you can use any 
 You can download Anki for your phone or your PC, amongst others. 
 https://apps.ankiweb.net/
 ## Why GitHub?
-Because AnkiWeb has undefined minimums on downloads on decks, and I don't want my decks to be deleted - and because I don't have copyright on some of the content.
+Because AnkiWeb has undefined minimums on downloads on decks, and I don't want my decks to be deleted
 
 GitHub specifically, because its a standard within computer science, and it makes it easy for me to update the files.
 
