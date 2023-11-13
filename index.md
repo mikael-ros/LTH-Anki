@@ -57,3 +57,4 @@ Specific details get removed after each period, they're only there to make sure 
 		* Chapter 4
 		* Chapter 5
 		* Part of chapter 12
+* EDAF45
