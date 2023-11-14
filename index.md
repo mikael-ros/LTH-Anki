@@ -61,3 +61,4 @@ Specific details get removed after each period, they're only there to make sure 
 * EDAF45
 	* Lectures
 		* Lecture 1
+		* Lecture 2
