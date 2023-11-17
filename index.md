@@ -66,3 +66,5 @@ Specific details get removed after each period, they're only there to make sure 
 	* Extreme Programming Pocket Guide
 		* Chapter 2
 		* Chapter 3
+		* Chapter 4
+		* Chapter 5
