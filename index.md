@@ -58,6 +58,7 @@ Specific details get removed after each period, they're only there to make sure 
 		* Chapter 5
 		* Chapter 6
 		* Chapter 7
+		* Chapter 10
 		* Chapter 12 (only .1, .5 and .10)
 * EDAF45
 	* Lectures
