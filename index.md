@@ -51,6 +51,7 @@ Specific details get removed after each period, they're only there to make sure 
 		* Lecture 4
 		* Lecture 5
 		* Lecture 8
+		* Lecture 9
 	* Book
 		* Chapter 1
 		* Chapter 2
