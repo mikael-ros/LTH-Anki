@@ -71,6 +71,7 @@ Specific details get removed after each period, they're only there to make sure 
 	* Lectures
 		* Lecture 1
 		* Lecture 2
+		* Lecture 5
 	* Extreme Programming Pocket Guide
 		* Chapter 2
 		* Chapter 3
