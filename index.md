@@ -44,6 +44,7 @@ Specific details get removed after each period, they're only there to make sure 
 		* Lecture 15
 		* Lecture 16
 		* Lecture 17
+		* Lecture 18
 * EITF45
 	* Lectures
 		* Lecture 1
