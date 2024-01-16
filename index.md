@@ -78,3 +78,9 @@ Specific details get removed after each period, they're only there to make sure 
 		* Chapter 3
 		* Chapter 4
 		* Chapter 5
+## Period 3
+* EITF70
+	* Lectures
+		* Lecture 1
+	* Computer Organization and Design (RISC-V), 2018
+		* Chapter 1
