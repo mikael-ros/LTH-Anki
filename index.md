@@ -84,3 +84,6 @@ Specific details get removed after each period, they're only there to make sure 
 		* Lecture 1
 	* Computer Organization and Design (RISC-V), 2018
 		* Chapter 1
+		* Chapter 2 (1-10)
+		* Chapter 3 (1-5, 9)
+
