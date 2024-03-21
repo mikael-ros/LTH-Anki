@@ -36,7 +36,7 @@ This repo is a complement to my [Notion database](https://mikaelrr.notion.site/D
 
 These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. 
 
-You can download [Anki](https://apps.ankiweb.net) for your phone or your PC, amongst others. 
+_You can download [Anki](https://apps.ankiweb.net) for your phone or your PC, amongst others._ 
 
 ## Why GitHub?
 Because AnkiWeb has undefined minimums on downloads on decks, and I don't want my decks to be deleted
