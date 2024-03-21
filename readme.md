@@ -1,7 +1,13 @@
-> [!NOTE]
+> [!TIP]
 > Consider starring and sharing this repo, so more people can make use of it :)
 
-# Swedish
+---
+
+> English further down the page
+
+---
+
+# 🇸🇪 Swedish
 > [!NOTE]
 > Denna repo är ett komplement till min [Notion-databas](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4)
 
@@ -31,7 +37,8 @@ Dessutom gör GitHub det möjligt för korten att dyka upp genom google-sökning
 Nej, jag har sett till att alltid exportera utan inställningarna.
 
 ---
-# English
+
+# 🇬🇧 English
 This repo is a complement to my [Notion database](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4).
 
 These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. 
