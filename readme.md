@@ -1,3 +1,8 @@
+<p align="center" style="background-color: transparent; width: 30%">
+    <img src="cards.svg" alt="Cards icon, designed by Embracket">
+</p>
+
+
 > [!TIP]
 > Consider starring and sharing this repo, so more people can make use of it :)
 
