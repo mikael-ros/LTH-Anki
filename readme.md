@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="cards.svg" alt="Cards icon, designed by Embracket" style="width:50%">
+    <img src="cards.svg" alt="Cards icon, designed by Embracket" style="width:20%">
 </p>
 
 # LTH Anki
