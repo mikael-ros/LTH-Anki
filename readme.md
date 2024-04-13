@@ -1,7 +1,9 @@
-<p align="center" style="background-color: transparent; width: 30%">
+<p align="left" style="background-color: transparent; width: 50%">
     <img src="cards.svg" alt="Cards icon, designed by Embracket">
 </p>
 
+# LTH Anki
+D-anki
 
 > [!TIP]
 > Consider starring and sharing this repo, so more people can make use of it :)
