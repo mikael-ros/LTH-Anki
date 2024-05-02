@@ -2,7 +2,7 @@
     <img src="cards.svg" alt="Cards icon, designed by Embracket" style="width:20%">
 </p>
 
-# LTH Anki
+# 🏫 LTH Anki
 ## D-anki
 
 > [!TIP]
