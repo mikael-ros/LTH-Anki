@@ -10,7 +10,7 @@ This repository contains Anki cards for the following courses relevant to (but n
 - FMAB70 Endimensionell analys
 ### Period 3
 - EDAA01 Programmeringsteknik - fördjupningskurs
-- EDAA34 Utvärdering av programvarusystem
+- EDAA35 Utvärdering av programvarusystem
 ### Period 4
 - EDAA40 / 75 Discrete structures
 - FMAB20 Linjär algebra
