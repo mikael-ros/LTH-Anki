@@ -18,7 +18,7 @@
 > [!NOTE]
 > Denna repo är ett komplement till min [Notion-databas](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4)
 
-Dessa kort är ämnade åt datastudenter, men kan användas åt individuella kurser också.
+Dessa kort är ämnade åt datastudenter, men kan användas åt individuella kurser också. En komplett lista av inkluderade kurser hittar du [här](contents.md).
 
 _Du kan ladda ner [Anki](https://apps.ankiweb.net) till din mobil eller din dator, bland annat._
 
@@ -48,7 +48,7 @@ Nej, jag har sett till att alltid exportera utan inställningarna.
 # 🇬🇧 English
 This repo is a complement to my [Notion database](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4).
 
-These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. 
+These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. A complete list of included courses can be found [here](contents.md).
 
 _You can download [Anki](https://apps.ankiweb.net) for your phone or your PC, amongst others._ 
 
