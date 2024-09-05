@@ -30,3 +30,8 @@ This repository contains Anki cards for the following courses relevant to (but n
 - EDAF05 Algorithms, data structures, and complexity
 - EDAN40 Funktionsprogrammering
 - EITA10 Elektronik
+
+## Year 3
+### Period 1
+- FRTF05 Reglerteknik
+- EDAP10 Flertrådad programmering
