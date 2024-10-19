@@ -18,7 +18,9 @@
 > [!NOTE]
 > Denna repo är ett komplement till min [Notion-databas](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4)
 
-Dessa kort är ämnade åt datastudenter, men kan användas åt individuella kurser också. En komplett lista av inkluderade kurser hittar du [här](contents.md). Just nu (början av år 3) finns där ungefär 7000+ kort (många av dessa är varianter av samma kort, så riktiga antalet är nog närmare 1000).
+Dessa kort är ämnade åt datastudenter, men kan användas åt individuella kurser också. En komplett lista av inkluderade kurser hittar du [här](contents.md). Just nu (början av år 3) finns där ungefär 7000+ kort (många av dessa är varianter av samma kort, så riktiga antalet är nog närmare 1000). Nästan alla kort är s.k. "cloze" kort. Korten är skrivna på svenska när kursen är på svenska, och engelska när den är på engelska - ibland går jag dock utefter bokens språk.
+
+Hör gärna av dig genom ett [issue](https://www.github.com/mikael-ros/LTH-anki/issues/new) om du upptäcker något fel.
 
 _Du kan ladda ner [Anki](https://apps.ankiweb.net) till din mobil eller din dator, bland annat._
 
@@ -45,7 +47,7 @@ Dessutom gör GitHub det möjligt för korten att dyka upp genom google-sökning
 > På grund av mängden kort kommer Anki inte visa alla möjliga kort förrän du ändrar inställningarna. Se sektionen nedan.
 
 ### Vilka inställningar använder jag?
-Personligen har jag 2 inställningsprofiler. 
+Personligen har jag 2 inställningsprofiler.  
 
 En jag kallar "Default" som har inställningarna:
 - 9999 nya kort om dagen (tvingar Anki att visa korten)
@@ -66,7 +68,9 @@ Nej, jag har sett till att alltid exportera utan inställningarna.
 # 🇬🇧 English
 This repo is a complement to my [Notion database](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4).
 
-These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. A complete list of included courses can be found [here](contents.md). Right now (beginning of year 3), there are about 7000+ cards (many of which are variants of the same card, so the real amount is probably closer to 1000)
+These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. A complete list of included courses can be found [here](contents.md). Right now (beginning of year 3), there are about 7000+ cards (many of which are variants of the same card, so the real amount is probably closer to 1000). Almost all cards are "cloze" cards. The cards are written in Swedish when the course is in Swedish, and English when it is in English - sometimes I may, however, decide based on the books language.
+
+Feel free to drop an [issue](https://www.github.com/mikael-ros/LTH-anki/issues/new) if you discover an error.
 
 _You can download [Anki](https://apps.ankiweb.net) for your phone or your PC, amongst others._ 
 
