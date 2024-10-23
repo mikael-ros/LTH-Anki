@@ -6,7 +6,9 @@
 ## D-anki
 
 > [!TIP]
-> Consider starring and sharing this repo, so more people can make use of it :)
+> Consider starring and sharing this repo, so more people can make use of it :) 
+
+If you are a copyright holder, feel free to contact me through the means mentioned on my page if you have any questions or concerns.
 
 ---
 
