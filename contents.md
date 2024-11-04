@@ -35,3 +35,6 @@ This repository contains Anki cards for the following courses relevant to (but n
 ### Period 1
 - FRTF05 Reglerteknik
 - EDAP10 Flertrådad programmering
+### Period 2
+- ETSF25 Affärsdriven programvaruutveckling
+- FMSF20 Matematisk statistik
