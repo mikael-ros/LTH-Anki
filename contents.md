@@ -38,3 +38,5 @@ This repository contains Anki cards for the following courses relevant to (but n
 ### Period 2
 - ETSF25 Affärsdriven programvaruutveckling
 - FMSF20 Matematisk statistik
+### Period 3
+- FMIF45 Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik
