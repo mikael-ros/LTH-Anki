@@ -40,3 +40,4 @@ This repository contains Anki cards for the following courses relevant to (but n
 - FMSF20 Matematisk statistik
 ### Period 3
 - FMIF45 Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik
+- EITA25 Datasäkerhet
