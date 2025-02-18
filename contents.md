@@ -41,3 +41,4 @@ This repository contains Anki cards for the following courses relevant to (but n
 ### Period 3
 - FMIF45 Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik
 - EITA25 Datasäkerhet
+- FMNF05 Numerisk analys
