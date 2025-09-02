@@ -42,3 +42,8 @@ This repository contains Anki cards for the following courses relevant to (but n
 - FMIF45 Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik
 - EITA25 Datasäkerhet
 - FMNF05 Numerisk analys
+
+## Year 4
+### Period 1
+- EDAN20 Språkteknologi
+- EDAN26 Multicoreprogrammering
