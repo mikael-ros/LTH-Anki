@@ -81,7 +81,7 @@ Feel free to drop an [issue](https://www.github.com/mikael-ros/LTH-anki/issues/n
 _You can download [Anki](https://apps.ankiweb.net) for your phone or your PC, amongst others._ 
 
 ## Why GitHub?
-Because AnkiWeb has undefined minimums on downloads on decks, and I don't want my decks to be deleted
+Because AnkiWeb has a mandated undefined minimum amount of downloads on decks, and I don't want my decks to be deleted
 
 GitHub specifically, because its a standard within computer science, and it makes it easy for me to update the files.
 
