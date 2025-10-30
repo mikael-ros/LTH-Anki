@@ -46,4 +46,8 @@ This repository contains Anki cards for the following courses relevant to (but n
 ## Year 4
 ### Period 1
 - EDAN20 Språkteknologi
-- EDAN26 Multicoreprogrammering
+- EDAN26 Multicoreprogrammering (only the very start)
+### Period 2
+- EDAN96 Tillämpad maskininlärning
+- MAMN25 Interaktionsdesign
+- EDAN10 Konfigurationshantering
