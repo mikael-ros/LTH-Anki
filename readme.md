@@ -61,8 +61,8 @@ En jag kallar "Default" som har inställningarna:
 - Insertion order = random
 
 En annan som heter "Crunch" som jag använder när jag behöver tentaplugga och har inställningarna:
-- 9999 new cards every day (forces Anki to show the cards)
-- 9999 reviews every day (same goes for this)
+- 9999 nya kort om dagen (tvingar Anki att visa korten)
+- 9999 reviews om dagen (samma här)
 - Learning steps = 1m 10m
 - Graduating interval = 1
 - Easy interval = 2
