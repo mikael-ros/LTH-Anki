@@ -20,7 +20,7 @@ If you are a copyright holder, feel free to contact me through the means mention
 > [!NOTE]
 > Denna repo är ett komplement till min [Notion-databas](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4)
 
-Dessa kort är ämnade åt datastudenter, men kan användas åt individuella kurser också. En komplett lista av inkluderade kurser hittar du [här](contents.md). Just nu (mitten av år 3) finns där ungefär 8000+ kort (många av dessa är varianter av samma kort, så riktiga antalet är nog närmare 2000). Nästan alla kort är s.k. "cloze" kort. Korten är skrivna på svenska när kursen är på svenska, och engelska när den är på engelska - ibland går jag dock utefter bokens språk.
+Dessa kort är ämnade åt datastudenter, men kan användas åt individuella kurser också. En komplett lista av inkluderade kurser hittar du [här](contents.md). Just nu (mitten av år 4) finns där 10000+ kort (många av dessa är varianter av samma kort, så riktiga antalet är 3600+). Nästan alla kort är s.k. "cloze" kort. Korten är skrivna på svenska när kursen är på svenska, och engelska när den är på engelska - ibland går jag dock utefter bokens språk.
 
 Ingen av korten är för närvarande taggade eller kategoriserade.
 
@@ -60,6 +60,14 @@ En jag kallar "Default" som har inställningarna:
 - Easy interval = 10
 - Insertion order = random
 
+En annan som heter "Crunch" som jag använder när jag behöver tentaplugga och har inställningarna:
+- 9999 new cards every day (forces Anki to show the cards)
+- 9999 reviews every day (same goes for this)
+- Learning steps = 1m 10m
+- Graduating interval = 1
+- Easy interval = 2
+- Insertion order = random
+
 En annan som heter "Defunct" som används till kurser jag inte längre tar och har inställningarna:
 - 0 nya kort om dagen
 - 0 reviews om dagen
@@ -72,7 +80,7 @@ Nej, jag har sett till att alltid exportera utan inställningarna.
 # 🇬🇧 English
 This repo is a complement to my [Notion database](https://mikaelrr.notion.site/Delade-anteckningar-Hub-LTH-D-C-f2a47297b9b146dba372e02c4f789d55?pvs=4).
 
-These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. A complete list of included courses can be found [here](contents.md). Right now (middle of year 3), there are about 8000+ cards (many of which are variants of the same card, so the real amount is probably closer to 2000). Almost all cards are "cloze" cards. The cards are written in Swedish when the course is in Swedish, and English when it is in English - sometimes I may, however, decide based on the books language.
+These cards are directed towards computer science students, but you can use any individual courses cards by downloading them. A complete list of included courses can be found [here](contents.md). Right now (middle of year 4), there are 10000+ cards (many of which are variants of the same card, so the real amount is 3600+). Almost all cards are "cloze" cards. The cards are written in Swedish when the course is in Swedish, and English when it is in English - sometimes I may, however, decide based on the books language.
 
 None of the cards are currently tagged or categorized.
 
@@ -109,6 +117,14 @@ One I call "Default" that has the settings:
 - 9999 reviews every day (same goes for this)
 - Graduating interval = 7
 - Easy interval = 10
+- Insertion order = random
+
+Another I call "Crunch" that I use when studying for exams and has the settings:
+- 9999 new cards every day (forces Anki to show the cards)
+- 9999 reviews every day (same goes for this)
+- Learning steps = 1m 10m
+- Graduating interval = 1
+- Easy interval = 2
 - Insertion order = random
 
 Another I call "Defunct" that I use for passed courses and has the settings:
