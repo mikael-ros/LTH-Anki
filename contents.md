@@ -12,7 +12,7 @@ This repository contains Anki cards for the following courses relevant to (but n
 - EDAA01 Programmeringsteknik - fördjupningskurs
 - EDAA35 Utvärdering av programvarusystem
 ### Period 4
-- EDAA40 / 75 Discrete structures
+- EDAA40 / 75 Discrete structures (in computer science) / Diskreta strukturer (i datavetenskap)
 - FMAB20 Linjär algebra
 
 ## Year 2
@@ -25,11 +25,11 @@ This repository contains Anki cards for the following courses relevant to (but n
 - EITF45 Datorkommunikation
 - EITF65 Digitalteknik
 ### Period 3
-- EITF70 Datorteknik
+- EITF70 Computer technology / Datorteknik
 ### Period 4
-- EDAF05 Algorithms, data structures, and complexity
-- EDAN40 Funktionsprogrammering
-- EITA10 Elektronik
+- EDAF05 Algorithms, data structures, and complexity / Algoritmer och datastrukturer
+- EDAN40 Functional programming / Funktionsprogrammering
+- EITA10 Electronics / Elektronik
 
 ## Year 3
 ### Period 1
@@ -40,14 +40,18 @@ This repository contains Anki cards for the following courses relevant to (but n
 - FMSF20 Matematisk statistik
 ### Period 3
 - FMIF45 Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik
-- EITA25 Datasäkerhet
-- FMNF05 Numerisk analys
+- EITA25 Computer Security / Datasäkerhet
+- FMNF05 Numerical analysis / Numerisk analys
 
 ## Year 4
 ### Period 1
-- EDAN20 Språkteknologi
-- EDAN26 Multicoreprogrammering (only the very start)
+- EDAN20 Language technology / Språkteknologi
+- EDAN26 Multicore programming / Multicoreprogrammering (only the very start)
 ### Period 2
-- EDAN96 Tillämpad maskininlärning
-- MAMN25 Interaktionsdesign
-- EDAN10 Konfigurationshantering
+- EDAN96 Applied machine learning / Tillämpad maskininlärning
+- MAMN25 Interaction design / Interaktionsdesign
+- EDAN10 Configuration management / Konfigurationshantering
+### Period 3
+- MAMF45 Virtual Reality in Theory and Practice / Virtual Reality i teori och praktik
+- MAMN01 Advanced interaction design / Avancerad interaktionsdesign
+- EDAF50 C++ Programming / C++ Programmering
