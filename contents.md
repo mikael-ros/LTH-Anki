@@ -25,7 +25,7 @@ This repository contains Anki cards for the following courses relevant to (but n
 - EITF45 Datorkommunikation
 - EITF65 Digitalteknik
 ### Period 3
-- EITF70 Computer technology / Datorteknik
+- EITF70 Computer organization / Datorteknik
 ### Period 4
 - EDAF05 Algorithms, data structures, and complexity / Algoritmer och datastrukturer
 - EDAN40 Functional programming / Funktionsprogrammering
